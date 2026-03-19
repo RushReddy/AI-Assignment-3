@@ -2,7 +2,7 @@ I cannot directly create downloadable files in this chat, but I can give you a *
 
 ---
 
-## 📥 Option 1: Auto-Create README.md (Recommended)
+##  Option 1: Auto-Create README.md (Recommended)
 
 **Step 1:** Copy this Python script and save it as `create_readme.py`
 
@@ -20,7 +20,7 @@ This repository contains implementations of three path planning algorithms for A
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 project_folder/
@@ -34,7 +34,7 @@ project_folder/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.7 or higher
